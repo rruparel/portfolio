@@ -1,0 +1,35 @@
+.topnav{
+    background-color: #B3CDE0;
+    color: #10396C;
+    text-align: center;
+    padding: 10pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.justifynav{
+    justify-content: center;
+}
+
+.profileblock{
+    background-color: #10396C;
+    padding: 30pt;
+}
+
+.intro{
+    color: #B3CDE0;
+}
+
+.card{
+    background-color: #6497B1;
+    text-align: center;
+    color: black;
+}
+.aboutme{
+    background-color: #BDD0DF;
+}
+
+.footer{
+    justify-content: center;
+    color: black;
+    background-color: #B3CDE0;
+    text-align: center;
+}
